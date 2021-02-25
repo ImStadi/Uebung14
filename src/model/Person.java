@@ -1,5 +1,7 @@
 package model;
-
+/*********************
+ * Andre Stadler
+ *****************+**/
 
 public class Person
 {

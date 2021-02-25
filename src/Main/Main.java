@@ -1,3 +1,7 @@
+/*********************
+ * Andre Stadler
+ *****************+**/
+
 package Main;
 
 import javafx.application.Application;
